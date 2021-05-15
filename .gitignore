@@ -1,0 +1,6 @@
+*.kdbx
+*.lock
+__debug_bin
+gopass.yml
+gopass
+!/*/gopass
