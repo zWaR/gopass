@@ -13,7 +13,7 @@ import (
 	"gopass/gopass/internal/gopass/interfaces"
 
 	"github.com/atotto/clipboard"
-	"github.com/tobischo/gokeepasslib"
+	"github.com/tobischo/gokeepasslib/v3"
 	"golang.org/x/crypto/ssh/terminal"
 )
 
